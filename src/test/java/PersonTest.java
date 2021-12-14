@@ -1,4 +1,4 @@
-package java;
+package test.java;
 
 import main.java.Person;
 import org.assertj.core.api.SoftAssertions;

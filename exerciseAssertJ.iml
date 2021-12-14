@@ -9,5 +9,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="junit.jupiter" level="project" />
     <orderEntry type="library" exported="" name="assertj.core" level="project" />
+    <orderEntry type="library" name="junit.platform.commons" level="project" />
+    <orderEntry type="library" exported="" name="junit.jupiter.api" level="project" />
+    <orderEntry type="library" exported="" name="junit.jupiter.engine" level="project" />
   </component>
 </module>
